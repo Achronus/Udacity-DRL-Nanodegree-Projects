@@ -42,8 +42,8 @@ This project requires a Python 3.6 environment with PyTorch 0.4.0, which can be 
 2. Clone the repository, navigate to the `python/` folder and install the required dependencies.
 
     ```bash
-    git clone https://github.com/udacity/deep-reinforcement-learning.git
-    cd deep-reinforcement-learning/python
+    git clone https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects.git
+    cd p1_navigation/python
     conda install pytorch=0.4.0 -c pytorch
     pip install .
     cd ..
