@@ -4,11 +4,11 @@
 
 This project focuses on my solution to creating an agent that automatically navigates a large square world, which is full of bananas. It uses a simulated environment based on [Unity's ML-Agents](https://github.com/Unity-Technologies/ml-agents) and can be found within [Udacity's Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
+![Banana World Environment](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/blob/master/imgs/bananas.gif)
+
 ## Project Details
 
 The agents goal is to collect as many yellow bananas as possible while avoiding the blue bananas, where the agent recieves a reward of +1 for collecting a yellow banana and a reward of -1 for collecting a blue banana.
-
-![Banana World Environment](/imgs/bananas.gif)
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent learns how to best select the appropriate action. Four discrete actions are available, these are:
 
