@@ -6,9 +6,9 @@ This project focuses on my solution to creating an agent that automatically navi
 
 ![Banana World Environment](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/blob/master/imgs/bananas.gif)
 
-## Project Details
+## Environment Details
 
-The agents goal is to collect as many yellow bananas as possible while avoiding the blue bananas, where the agent recieves a reward of +1 for collecting a yellow banana and a reward of -1 for collecting a blue banana.
+The project focuses on a single agent, where it's goal is to collect as many yellow bananas as possible while avoiding the blue bananas. It recieves a reward of +1 for collecting a yellow banana and a reward of -1 for collecting a blue banana.
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent learns how to best select the appropriate action. Four discrete actions are available, these are:
 
@@ -17,9 +17,9 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - 2 - turns left
 - 3 - turns right
 
-This project focuses on an episodic approach to solving the environment, where the agent must achieves an average score of +13 over 100 consecutive episodes.
+This project uses an episodic approach to solving the environment, where the agent must achieves an average score of +13 over 100 consecutive episodes.
 
-## Getting Started
+## Dependencies
 
 This project requires a Python 3.6 environment with PyTorch 0.4.0, which can be created by following the instructions below.
 
@@ -40,6 +40,8 @@ This project requires a Python 3.6 environment with PyTorch 0.4.0, which can be 
    ```
 
 2. Clone the repository, navigate to the `python/` folder and install the required dependencies.
+
+    _(Note)_ a requirements.txt file is accessible within this folder which details a list of the required dependencies.
 
     ```bash
     git clone https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects.git
@@ -66,8 +68,8 @@ This project requires a Python 3.6 environment with PyTorch 0.4.0, which can be 
 
     _(For full details)_ refer to the Udacity courses GitHub project [Getting Started section](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation/README.md).
 
-### Training the Agent
+## How to Use
 
-The code to train and test the agent within the banana enviornment can be found within the `Navigation.pynb` Jupyter Notebook, where the code cells can be run in sequence.
+The code to train and test the agent within the banana enviornment can be found within the `Navigation.pynb` Jupyter Notebook, where the code cells can be run in sequence. Both sections are labelled accordingly.
 
 To open the notebook use the command `jupyter-notebook`, within the _'project's environment'_ directory. Before running the code in the notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu.
