@@ -17,7 +17,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 - 2 - turns left
 - 3 - turns right
 
-This project uses an episodic approach to solving the environment, where the agent must achieves an average score of +13 over 100 consecutive episodes.
+This project uses an episodic approach with a basic Deep Q-Network to solve the environment, where the agent achieves an average score of +13 over 100 consecutive episodes.
 
 ## Dependencies
 
