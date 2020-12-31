@@ -8,9 +8,15 @@ This repository focuses on my solutions to the three projects within the [Udacit
 
 Each project has its own folder containing the solution files and details of the project itself. Some projects may have multiple solutions which also have their own folder dedicated to that solution.
 
-The projects contained within this repository are listed below:
+The projects contained within this repository are listed below.
 
-- [Project 1: Banana World - Basic DQN](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/tree/master/p1_navigation)
-- Project 1: Banana World - Advanced DQN - _Coming Soon!_
-- Project 2: Continuous Control - _Coming Soon!_
-- Project 3: Table Tennis - _Coming Soon!_
+- __Project 1: Banana World__
+  - [Basic DQN](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/tree/master/p1_navigation)
+  - Advanced DQN - _Coming Soon!_
+
+- __Project 2: Continuous Control__
+  - [Reacher](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/tree/master/p2_reacher)
+  - Crawler - _Coming Soon!_
+
+- __Project 3: Multi-Agents__
+  - Table Tennis - _Coming Soon!_
