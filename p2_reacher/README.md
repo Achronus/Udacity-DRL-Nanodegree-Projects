@@ -1,4 +1,4 @@
-# Project: Continuous Control
+# Project: Sticking to the Target
 
 ## Introduction
 
