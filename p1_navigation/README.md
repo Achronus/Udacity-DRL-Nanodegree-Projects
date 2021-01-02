@@ -64,9 +64,9 @@ This project requires a Python 3.6 environment with PyTorch 0.4.0, which can be 
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-5. Unzip the environment archive into the _'project's environment'_ directory and then adjust the path to the `UnityEnvironment` within the Jupyter Notebook mentioned in step 6.
+5. Unzip the environment archive into the _'project's environment'_ directory and then adjust the path to the `UnityEnvironment` within the Jupyter Notebook mentioned in the 'How to Use' section.
 
-    _(For full details)_ refer to the Udacity courses GitHub project [Getting Started section](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation/README.md).
+    _(For full details)_ refer to the Udacity courses GitHub project [Getting Started section](https://github.com/udacity/deep-reinforcement-learning/blob/master/p1_navigation#getting-started).
 
 ## How to Use
 
