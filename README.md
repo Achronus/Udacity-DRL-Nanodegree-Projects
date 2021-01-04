@@ -19,4 +19,5 @@ The projects contained within this repository are listed below.
   - Crawler - _Coming Soon!_
 
 - __Project 3: Multi-Agents__
-  - Table Tennis - _Coming Soon!_
+  - [Tennis](https://github.com/Achronus/Udacity-DRL-Nanodegree-Projects/tree/master/p3_tennis)
+  - Soccer - _Coming Soon!_
